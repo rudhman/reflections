@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+>When we initialize a repository it becomes a git thingy. Otherwise it wont be a git thingy.
+Initialized repo's can be used to do git stuff like commits i.e do version control. 
+
+How is the staging area different from the working directory and the repository? What value do 
+you think it offers?
+
+> Staging area is the intermediate area where files can be added before commiting it. The value 
+it offers is that I can decide what files to commit at a time, add message and stuff. 
+Working directory is the place where we do work, where files are saved etc.
