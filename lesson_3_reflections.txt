@@ -7,3 +7,13 @@ Why might you want to always pull changes manually rather than having Git automa
 up-to-date with your remote repository?
 
 >The changes might be drastic and destroy my edits. Having choice is better(?). 
+
+Describe the differences between forks, clones, and branches. When would you use one instead 
+of another?
+
+> fork is githubs way of cloning on their machines for our use. 
+  clones are us cloning the files to our local machine.
+  branches are file legends(commits list?). Branches show the progress of project and directions
+  taken.
+
+  

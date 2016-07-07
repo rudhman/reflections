@@ -9,3 +9,32 @@ you think it offers?
 > Staging area is the intermediate area where files can be added before commiting it. The value 
 it offers is that I can decide what files to commit at a time, add message and stuff. 
 Working directory is the place where we do work, where files are saved etc.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+> I can add one file to staging area which reprsents a logical change, and then git commit it
+with a message. This will commit the files in the staging area to repository(?).
+
+What are some situations when branches would be helpful in keeping your history organized? How 
+would branches help?
+
+>Branches help me to explore different paths. I can experiment different features and stuff with
+out making permanent changes to master and letting master continue on its progress. If I like my
+expereminetal changes I can merge it into the master branch. 
+Branches show me what and all I have tried and the direction of the project.
+
+How do the diagrams help you visualize the branch structure?
+
+>I can see the connections between the commits(?). 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the 
+way we do?
+
+>The result was the changes in coin was merged into master. 
+The diagram tell's us that the coins branch has merged into master , which is what actually 
+happened.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+>Automatic merging might add bugs etc, manual merging needs me to resolve the bugs.
+auto merge is convenient most of the times, manual might not be.
