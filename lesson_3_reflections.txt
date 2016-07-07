@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 >When I want to work from other locations(other computer etc), I might use remote repository and 
 pheraphs sync it latter to my usual computer.
+
+Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+
+>The changes might be drastic and destroy my edits. Having choice is better(?). 
