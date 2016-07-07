@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+>When I want to work from other locations(other computer etc), I might use remote repository and 
+pheraphs sync it latter to my usual computer.
