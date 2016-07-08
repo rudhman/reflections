@@ -19,3 +19,8 @@ of another?
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 >We will have an copy of it offline and we can compare the states of it.
+
+When would you want to make changes in a separate branch rather than directly in master? What 
+benefits does each approach have?
+
+>When I want to do unofficial experemients and want to avoid direct damage to master.
